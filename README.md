@@ -13,7 +13,7 @@ This challenge will dive into the world of programming with **Python**. Furtherm
 ### Goal - PyPoll
 The goal of **PyBank** is to create a Python script that analyses the financial records of a company.
 
-Using the dataset [`budget_data.csv`), calculate the following:
+Using the dataset [`budget_data.csv`], calculate the following:
 1. Total number of months in the dataset
 2. Net total amount of "Profit/Losses" over the period
 3. Changes in "Profit/Losses" over the period, and the average of those changes
