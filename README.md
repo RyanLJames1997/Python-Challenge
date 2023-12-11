@@ -2,13 +2,13 @@
 
 Module 03 Challenge: UWA/edx Data Analytics Bootcamp
 
-Github repository at: https://github.com/RyanLJames1997/CryptoClustering/blob/main/README.md
+Github repository at: https://github.com/RyanLJames1997/Python-Challenge
 
 ## Introduction
 
 ### Goal
 
-This challenge will predict whether Cryptocurrencies are affected by 24-hour (daily) or 7-day (weekly) price changes. This will be achieved through 'unsupervised machine learning' K-Means clutering and Principle Component Analysis (PCA).
+This challenge will dive into the world of programming with **Python**. Furthermore, the concepts of **Python** coding will implemented to tackle a real-world situtation in **PyBank** and **PyPoll**.
 
 ### Dataset
 
