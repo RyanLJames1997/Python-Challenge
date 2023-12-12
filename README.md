@@ -10,7 +10,7 @@ Github repository at: https://github.com/RyanLJames1997/Python-Challenge
 
 This challenge will dive into the world of programming with **Python**. Furthermore, the concepts of **Python** coding will implemented to tackle a real-world situtation in **PyBank** and **PyPoll**.
 
-### Goal - PyPoll
+### Goal - PyBank
 The goal of **PyBank** is to create a Python script that analyses the financial records of a company.
 
 Using the dataset [`budget_data.csv`], calculate the following:
